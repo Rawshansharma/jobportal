@@ -1,13 +1,8 @@
-# jobportal
+# React + Vite
 
-Job Portal – React.js Project
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This job portal is a dynamic and interactive web application built using React.js, offering a streamlined interface for managing job listings. The portal provides several key features to enhance user and admin interactions with job postings:
+Currently, two official plugins are available:
 
-Add Jobs: Users with appropriate permissions can easily add new job listings by filling out a form with relevant job details (e.g., job title, description, requirements, etc.).
-
-Update Jobs: Edit and modify existing job posts, making it easy to update job details as business needs change.
-
-Delete Jobs: Remove outdated or irrelevant job listings with a simple click to keep the portal up-to-date and clutter-free.
-
-View All Jobs: Browse through a list of all job postings in an intuitive, user-friendly interface. Job details can be viewed by clicking on individual postings.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
